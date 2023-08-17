@@ -28,6 +28,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Main
 > Description
+| 기능 | 사진 |
+|----|------|
+| 롤링배너 | 사진 |
+| 수강신청 | 사진 |
+| 수강후기 | 사진 |
+| 수강혜택 | 사진 |
+| 바로가기 | 사진 |
 
 ### Login
 > Description
